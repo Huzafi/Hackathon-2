@@ -123,3 +123,6 @@ Generated via agentic workflow using Claude Code.
 ## Contributing
 
 This is a demonstration project for agentic development. See the constitution at `.specify/memory/constitution.md` for development principles.
+
+## 🎥 Hackathon 2 Phase II
+[Phase II Repo Link](https://github.com/Huzafi/Hackathon-2-Phase-II)
